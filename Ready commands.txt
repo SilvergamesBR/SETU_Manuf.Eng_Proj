@@ -1,0 +1,11 @@
+mosquitto_pub -i "Pub_client" -t "Temperature" -m 20 -d
+
+mosquitto_pub -i "Pub_client" -t "Speed" -m 7 -d
+
+mosquitto_sub -i "Sub_client1" -t "Temperature" -d
+
+mosquitto_sub -i "Sub_client2" -t "Shutdown" -d
+
+Node Red:
+
+http://localhost:1880/ui

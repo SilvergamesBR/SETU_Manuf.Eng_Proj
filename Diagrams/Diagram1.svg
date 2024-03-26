@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="41cm" height="28cm" viewBox="349 55 801 552" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <ellipse style="fill: #ffffff" cx="421.195" cy="379.697" rx="70.8049" ry="65.6967"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="421.195" cy="379.697" rx="70.8049" ry="65.6967"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="421.195" y="375.597">
+      <tspan x="421.195" y="375.597">Temperature</tspan>
+      <tspan x="421.195" y="391.597">Sensor</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="667.775" y="244" width="173.225" height="148"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="667.775" y="244" width="173.225" height="148"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="754.388" y="321.9">
+      <tspan x="754.388" y="321.9">Broker</tspan>
+    </text>
+  </g>
+  <g>
+    <ellipse style="fill: #ffffff" cx="750" cy="114.966" rx="63" ry="58.0336"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="750" cy="114.966" rx="63" ry="58.0336"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="750" y="118.866">
+      <tspan x="750" y="118.866">Valve</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="649.539,355 569.193,355 569.193,354.556 486.61,354.556 "/>
+    <polygon style="fill: #ffffff" points="649.539,363 665.539,355 649.539,347 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="649.539,363 665.539,355 649.539,347 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="508" y="333">
+    <tspan x="508" y="333">Publishes to topic:</tspan>
+    <tspan x="508" y="349">    Temperature</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="591" y="191">
+    <tspan x="591" y="191">Subscribes to topic:</tspan>
+    <tspan x="591" y="207">     Temperature</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="711.081,225.764 711.081,198.291 725.891,198.291 725.891,168.582 "/>
+    <polygon style="fill: #ffffff" points="703.081,225.764 711.081,241.764 719.081,225.764 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="703.081,225.764 711.081,241.764 719.081,225.764 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="774.109,186.819 774.109,214.291 797.694,214.291 797.694,244 "/>
+    <polygon style="fill: #ffffff" points="782.109,186.819 774.109,170.819 766.109,186.819 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="782.109,186.819 774.109,170.819 766.109,186.819 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="785" y="202">
+    <tspan x="785" y="202">Receives the published data</tspan>
+    <tspan x="785" y="218">       from Temperature</tspan>
+  </text>
+  <g>
+    <ellipse style="fill: #ffffff" cx="1090.81" cy="318.562" rx="58.5673" ry="51.5336"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="1090.81" cy="318.562" rx="58.5673" ry="51.5336"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1090.81" y="322.462">
+      <tspan x="1090.81" y="322.462">Motor</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="859.236,355 953.197,355 953.197,355.001 1049.39,355.001 "/>
+    <polygon style="fill: #ffffff" points="859.236,347 843.236,355 859.236,363 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="859.236,347 843.236,355 859.236,363 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="895.844" y="372.555">
+    <tspan x="895.844" y="372.555">Publishes to topic:</tspan>
+    <tspan x="895.844" y="388.555">         Speed</tspan>
+  </text>
+  <g>
+    <ellipse style="fill: #ffffff" cx="758.823" cy="549.551" rx="59.1165" ry="57.0287"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" cx="758.823" cy="549.551" rx="59.1165" ry="57.0287"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="758.823" y="553.451">
+      <tspan x="758.823" y="553.451">Battery</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="708.058,413.727 708.058,454.177 736.2,454.177 736.2,496.863 "/>
+    <polygon style="fill: #ffffff" points="716.058,413.727 708.058,397.727 700.058,413.727 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="716.058,413.727 708.058,397.727 700.058,413.727 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="613.598" y="471.637">
+    <tspan x="613.598" y="471.637">Publishes to topic:</tspan>
+    <tspan x="613.598" y="487.637">        Voltage</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="831.676,527.727 842.037,527.727 842.037,392 841,392 "/>
+    <polygon style="fill: #ffffff" points="831.676,519.727 815.676,527.727 831.676,535.727 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="831.676,519.727 815.676,527.727 831.676,535.727 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="847.82" y="486.095">
+    <tspan x="847.82" y="486.095">Receives the published</tspan>
+    <tspan x="847.82" y="502.095">data from temperature</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="797.694,410.236 797.694,452.432 781.446,452.432 781.446,496.863 "/>
+    <polygon style="fill: #ffffff" points="805.694,410.236 797.694,394.236 789.694,410.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="805.694,410.236 797.694,394.236 789.694,410.236 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="803.482" y="434.046">
+    <tspan x="803.482" y="434.046">Subscribes to topic:</tspan>
+    <tspan x="803.482" y="450.046">     Temperature</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="860.241,318 945.123,318 945.123,318.562 1032.24,318.562 "/>
+    <polygon style="fill: #ffffff" points="860.241,310 844.241,318 860.241,326 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="860.241,310 844.241,318 860.241,326 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="890.231" y="329.947">
+    <tspan x="890.231" y="329.947">Subscribes to topic:</tspan>
+    <tspan x="890.231" y="345.947">        Voltage</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="1031.16,282.122 937.197,282.122 937.197,281 841,281 "/>
+    <polygon style="fill: #ffffff" points="1031.16,290.122 1047.16,282.122 1031.16,274.122 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1031.16,290.122 1047.16,282.122 1031.16,274.122 "/>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="871.917" y="294.284">
+    <tspan x="871.917" y="294.284">Receives the published</tspan>
+    <tspan x="871.917" y="310.284">    data from Voltage</tspan>
+  </text>
+</svg>
